@@ -9,7 +9,7 @@ import ShoppingCart from './components/ShoppingCart';
 
 
 import { ProductContext } from "./contexts/ProductContext";
-import { CartContext } from "./contexts/CartContext";
+import { CartContext } from "./contexts/CartContext.js";
 import useLocalStorage from "./hooks/useLocalStorage";
 
 function App() {
